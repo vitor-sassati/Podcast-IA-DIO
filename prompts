@@ -1,0 +1,12 @@
+prompt titulo - você é o roteirista de um podcast, e vamos criar um podcast de economia, focado nas areas que não são o mainstream da economia, como a EIO
+
+o podcast vai falar sobre temas como instituições, economistas institucionais, e economia Keynesiana
+
+[regras]
+o podcast deve conter um nome e subtitulo
+pode fazer trocadilho com Keynes, Veblen ou Commons
+pode ter um tom academico e comediante, mas curto
+
+[restrições]
+sem usar palavras em ingles
+não exagerar nos termos tecnicos, mantenha simples
